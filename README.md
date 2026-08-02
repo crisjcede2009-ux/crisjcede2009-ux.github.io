@@ -1,0 +1,79 @@
+<html>
+     <head>
+     <title>tabla</title>
+    </head>
+    <body bgcolor="gold">
+        <h1 style="text-align: center; text-decoration: underline; font-family: Arial, Helvetica, sans-serif; color: rgb(39, 185, 75); font-size: 60px;">tabla de paises</h1>
+     <center><table border="1px"></center>
+    <tr>
+        <th>PAIS</th>
+        <th>CAPITAL</th>
+        <th>POBLACION</th>
+        <th>MONEDA</th>
+    </tr>
+    <tr>
+        <td>Ecuador</td>
+        <td>Quito</td>
+        <td>18.444.506</td>
+        <td>Dólar estadounidense</td>
+ 
+        </tr>
+    <tr>
+        <td>Rusia</td>
+        <td>Moscú</td>
+        <td>146.748.590</td>
+        <td>Rublo ruso</td>
+    </tr>
+    <tr>
+        <td>Egipto</td>
+        <td>El Cairo</td>
+        <td>102.334.700</td>
+        <td>Libra egipcia</td>
+    </tr>
+    <tr>
+        <td>India</td>
+        <td>Nueva Delhi</td>
+        <td>1.380.004.385</td>
+        <td>Rupia india</td>
+    </tr>
+    <tr>
+        <td>Japón</td>
+        <td>Tokio</td>
+        <td>126.476.461</td>
+        <td>Yen japonés</td>
+    </tr>
+    <tr>
+        <td>Israel</td>
+        <td>Jerusalén</td>
+        <td>9.216.900</td>
+        <td>Shekel israelí</td>
+    </tr>
+    <tr>
+        <td>China</td>
+        <td>Beijing</td>
+        <td>1.412.129.000</td>
+        <td>Yuan chino</td>
+    </tr>
+    <tr>
+        <td>Irak</td>
+        <td>Bagdad</td>
+        <td>40.222.000</td>
+        <td>Dinar iraquí</td>
+    </tr>
+    <tr>
+        <td>Turquía</td>
+        <td>Ankara</td>
+        <td>84.339.067</td>
+        <td>Lira turca</td>
+    </tr>
+    <tr>
+        <td>Portugal</td>
+        <td>Lisboa</td>
+        <td>10.196.709</td>
+        <td>Euro</td>
+    </tr>
+    </table>
+    <p style="color:rgb(42, 165, 69); font-size:50px; text-align: center; text-decoration: underline;">Cedeño Chiquito Christian Javier <br>
+     3RO INFORMATICA "A"</p>
+    </body>
+</html>
